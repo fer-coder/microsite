@@ -1,0 +1,42 @@
+body{
+    background-image: url('../img/fondo2.jpg');
+    /*    .. means level up to look for a file  */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+ }
+
+.dci{
+     width: 400px;
+     border: 5px, cornsilk;
+ }
+ .job{
+    width: 400px;
+    border: 5px, cornsilk;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+ h2{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: blue; 
+    }
+ h3{
+    text-align: center;
+    color: blue;
+}
+h4{
+    text-align: center;
+    color: blue
+}
+ .avatar-img{
+    
+    width: 233px;
+    height: 300px;
+    border: 100px;
+    box-shadow: 10px 10px 10px #222;
+
+}
